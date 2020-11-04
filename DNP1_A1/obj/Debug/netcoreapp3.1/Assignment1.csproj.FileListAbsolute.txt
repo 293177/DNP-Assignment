@@ -1,0 +1,286 @@
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.Views.dll
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorComponent.input.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultsOverview.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Assignment1.dll
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.input.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.output.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultsOverview.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Add an adult.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\Add an adult.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\users.json
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\jambo\RiderProjects\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Razor\Pages\AddUser.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\users.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.Views.dll
+C:\Users\jambo\RiderProjects\DNPAssignement1\bin\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorComponent.input.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Add an adult.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultsOverview.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Assignment1.dll
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.input.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.output.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\Add an adult.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\AddUser.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultsOverview.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\jambo\RiderProjects\DNPAssignement1\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorComponent.input.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\users.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.dll
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Assignment1.dll
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.input.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.output.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\users.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorComponent.input.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.input.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.output.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\users.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\bin\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorComponent.input.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\RazorDeclaration\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.input.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.TagHelpers.output.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AddUser.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultsOverview.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.Views.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment1.StaticWebAssets.xml
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
+C:\Users\javic\Desktop\UNI\3 Semester\DNP\DNP_A2\DNP1_A1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
