@@ -7,7 +7,7 @@ using DNP_API.Login;
     public interface IUser
     {
         Task<User> ValidateUser(string username, string password);
-        Task  AddUserAsync(string username, string password, string role);
+        Task<User>  AddUserAsync(User user);
         Task <IList<User>> getUsersAsync();
         Task RemoveUserAsync(User toRemove);
     }

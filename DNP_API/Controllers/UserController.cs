@@ -26,6 +26,7 @@ namespace DNP_API.Controllers{
                 Console.WriteLine(e.Message);
                 StatusCode(404, e.Message);
             }
+            return null;
         }
 
         [HttpGet]
@@ -40,18 +41,17 @@ namespace DNP_API.Controllers{
         }
 
         [HttpPost]
-        public async Task<ActionResult> AddUserAsync([FromBody] string username, string password, string role){
-            if(!ModelState.IsValid){
-                return BadRequest();
-            }
+        public async Task<ActionResult<User>> AddUserAsync([FromBody] User user){
             try{
-                 await userService.AddUserAsync(username,password,role);
-                return Ok();
+                User user1 = await userService.AddUserAsync(user);
+                return Ok(user1);
             }catch(Exception e){
                 Console.WriteLine(e.Message);
                 StatusCode(409, e.Message);
             }
+            return null;
         }
+
         [HttpDelete ("{toRemove}")]
         [Route("{User : toRemove}")]
         public async Task<ActionResult<User>> DeleteUserAsync([FromRoute] User toRemove){

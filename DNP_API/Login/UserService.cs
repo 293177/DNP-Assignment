@@ -41,16 +41,11 @@ namespace DNP_API.Login
             return first;
         }
 
-        public async Task AddUserAsync(string username, string password, string role)
+        public async Task<User> AddUserAsync(User user)
         {
-            User user = new User()
-            {
-                username = username,
-                password = password,
-                Role = role
-            };
             users.Add(user);
             writeUserFile(users);
+            return user;
         }
 
         public async Task<IList<User>> getUsersAsync()
