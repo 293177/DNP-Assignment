@@ -53,7 +53,7 @@ namespace DNP_API.Controllers{
         }
 
         [HttpDelete ("{toRemove}")]
-        [Route("{User : toRemove}")]
+        //[Route("{User : toRemove}")]
         public async Task<ActionResult<User>> DeleteUserAsync([FromRoute] User toRemove){
             try{
                 await userService.RemoveUserAsync(toRemove);

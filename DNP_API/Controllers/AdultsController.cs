@@ -7,6 +7,7 @@ using System.Text.Json;
 using DNP_API.Model;
 using System.Collections.Generic;
 using System.Linq;
+
 namespace DNP_API.Controllers{
     [Route ("[controller]")]
     [ApiController]
@@ -30,7 +31,7 @@ namespace DNP_API.Controllers{
         }
 
         [HttpDelete("{adult}")]
-        [Route("{Adult: adult}")]
+       // [Route("{Adult: adult}")]
         public async Task<ActionResult> DeleteAdultAsync([FromRoute] Adult adult){
             try{
                 await adultService.RemoveAdultAsync(adult);
@@ -43,6 +44,10 @@ namespace DNP_API.Controllers{
 
         [HttpPost]
         public async Task<ActionResult<Adult>> AddAdultAsync([FromBody] Adult adult){
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             try{
                 Adult adult1 = await adultService.AddAdultAsync(adult);
                 return Ok(adult1);

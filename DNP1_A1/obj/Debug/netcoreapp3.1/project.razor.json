@@ -45,6 +45,72 @@
         }
       },
       {
+        "HashCode": 715820360,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Login.Login",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Login.Login"
+        }
+      },
+      {
+        "HashCode": -847934758,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Login.Login",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Assignment1.Login.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Login.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -549244759,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Model.Login",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Model.Login"
+        }
+      },
+      {
+        "HashCode": 1560409170,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Model.Login",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Assignment1.Model.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Model.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1275179582,
         "Kind": "Components.Component",
         "Name": "Assignment1.Pages.AddAdult",
@@ -74,39 +140,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Assignment1.Pages.AddAdult",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 938004689,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.Login"
-        }
-      },
-      {
-        "HashCode": -1797085351,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Assignment1.Pages.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.Login",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,35 +177,35 @@
         }
       },
       {
-        "HashCode": -279456402,
+        "HashCode": -1427766633,
         "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.SignUp",
+        "Name": "Assignment1.Pages.AdultsOverview",
         "AssemblyName": "Assignment1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SignUp"
+            "TagName": "AdultsOverview"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.SignUp"
+          "Common.TypeName": "Assignment1.Pages.AdultsOverview"
         }
       },
       {
-        "HashCode": 1659673004,
+        "HashCode": 248267253,
         "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.SignUp",
+        "Name": "Assignment1.Pages.AdultsOverview",
         "AssemblyName": "Assignment1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Assignment1.Pages.SignUp"
+            "TagName": "Assignment1.Pages.AdultsOverview"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.SignUp",
+          "Common.TypeName": "Assignment1.Pages.AdultsOverview",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -210,35 +243,68 @@
         }
       },
       {
-        "HashCode": -1427766633,
+        "HashCode": 938004689,
         "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.AdultsOverview",
+        "Name": "Assignment1.Pages.Login",
         "AssemblyName": "Assignment1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AdultsOverview"
+            "TagName": "Login"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.AdultsOverview"
+          "Common.TypeName": "Assignment1.Pages.Login"
         }
       },
       {
-        "HashCode": 248267253,
+        "HashCode": -1797085351,
         "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.AdultsOverview",
+        "Name": "Assignment1.Pages.Login",
         "AssemblyName": "Assignment1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Assignment1.Pages.AdultsOverview"
+            "TagName": "Assignment1.Pages.Login"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.AdultsOverview",
+          "Common.TypeName": "Assignment1.Pages.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -279456402,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Pages.SignUp",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SignUp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Pages.SignUp"
+        }
+      },
+      {
+        "HashCode": 1659673004,
+        "Kind": "Components.Component",
+        "Name": "Assignment1.Pages.SignUp",
+        "AssemblyName": "Assignment1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Assignment1.Pages.SignUp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Assignment1.Pages.SignUp",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14890,6 +14956,16 @@
     {
       "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Login\\Login.razor",
+      "TargetPath": "Login\\Login.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Model\\Login.razor",
+      "TargetPath": "Model\\Login.razor",
       "FileKind": "component"
     },
     {

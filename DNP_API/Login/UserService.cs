@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -12,6 +13,7 @@ namespace DNP_API.Login
     public class UserService : IUser
     {
         private List<User> users;
+        HttpClient client = new HttpClient();
         private string userFile = "users.json";
 
         public UserService()
