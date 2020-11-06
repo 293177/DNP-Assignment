@@ -111,39 +111,6 @@
         }
       },
       {
-        "HashCode": -1427766633,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.AdultsOverview",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AdultsOverview"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.AdultsOverview"
-        }
-      },
-      {
-        "HashCode": 248267253,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Pages.AdultsOverview",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Assignment1.Pages.AdultsOverview"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Pages.AdultsOverview",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 327041827,
         "Kind": "Components.Component",
         "Name": "Assignment1.Pages.Index",
