@@ -45,72 +45,6 @@
         }
       },
       {
-        "HashCode": 715820360,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Login.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Login.Login"
-        }
-      },
-      {
-        "HashCode": -847934758,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Login.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Assignment1.Login.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Login.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -549244759,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Model.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Model.Login"
-        }
-      },
-      {
-        "HashCode": 1560409170,
-        "Kind": "Components.Component",
-        "Name": "Assignment1.Model.Login",
-        "AssemblyName": "Assignment1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Assignment1.Model.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Assignment1.Model.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1275179582,
         "Kind": "Components.Component",
         "Name": "Assignment1.Pages.AddAdult",
@@ -14956,16 +14890,6 @@
     {
       "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Login\\Login.razor",
-      "TargetPath": "Login\\Login.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\javic\\Desktop\\UNI\\3 Semester\\DNP\\DNP_A2\\DNP1_A1\\Model\\Login.razor",
-      "TargetPath": "Model\\Login.razor",
       "FileKind": "component"
     },
     {
