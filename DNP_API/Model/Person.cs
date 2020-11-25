@@ -6,6 +6,7 @@ using System.Text.Json.Serialization;
 
 namespace DNP_API.Model {
 public class Person {
+    [Key]
     [JsonPropertyName("id")]
     public int Id { get; set; }
     [NotNull]

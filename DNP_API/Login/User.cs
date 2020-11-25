@@ -9,6 +9,7 @@ namespace DNP_API.Login
 {
     public class User
     {
+        [Key]
         [NotNull]
         [JsonPropertyName("username")]
         public string username { get; set; }

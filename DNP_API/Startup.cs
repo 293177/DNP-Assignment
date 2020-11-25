@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using DNP_API.Login;
 using DNP_API.Data;
+using DNP_API.Context;
 
 namespace DNP_API
 {
@@ -28,8 +29,9 @@ namespace DNP_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddScoped<IUser, UserService>();
-            services.AddScoped<IAdultService, CloudAdultService>();
+            services.AddDbContext<AdultContext>();
+            services.AddScoped<IUser, UserDbService>();
+            services.AddScoped<IAdultService, AdultDbService>();
             
         }
 
